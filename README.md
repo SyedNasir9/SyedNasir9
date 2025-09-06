@@ -21,7 +21,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing **BCA** at Vaa
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syednasir111-)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SyedNasir4)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SyedNasir9)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nasirsyed652@gmail.com)
 
 </div>
