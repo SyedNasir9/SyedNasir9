@@ -175,7 +175,7 @@ Previous:
 <div align="center">
 
 [![Serverless CRUD API](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-CRUD-API&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-CRUD-API)
-[![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-ECS-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
+[![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
 
 [![Personal Finance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=personal-finance-dashboard&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/personal-finance-dashboard)
 
