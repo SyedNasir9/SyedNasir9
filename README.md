@@ -189,7 +189,7 @@ Previous:
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Connect
 
 <div align="center">
 
