@@ -102,18 +102,19 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing **BCA** at Vaa
 
 ---
 
-### 📊 **Personal Finance Dashboard** - *Feb 2025*
-> **Cloud-Deployed Web Application with Full Observability**
+### 🏗️ **Scalable 2-Tier Web Application** - *Production-Ready AWS Architecture*
+> **High-Availability Web App with Auto-Scaling and Load Balancing**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
+![ALB](https://img.shields.io/badge/Load%20Balancer-FF4F8B?style=flat&logo=amazonelasticloadbalancing&logoColor=white)
 
-- 🎨 **Frontend**: Built responsive dashboard with Chart.js for expense visualization
-- 🐳 **Containerization**: Dockerized app with NGINX for static content delivery
-- ☁️ **Deployment**: Automated CI/CD pipeline via GitHub Actions to AWS EC2
-- 📊 **Monitoring**: Integrated Prometheus + Node Exporter for real-time monitoring
+- 🏗️ **2-Tier Architecture**: Web layer with ALB + Auto Scaling Group, database layer with RDS MySQL
+- ⚡ **Auto-Scaling**: Dynamic scaling (2-6 instances) based on CPU utilization with health monitoring
+- 🔒 **Security**: VPC with private subnets, layered security groups, and IAM best practices
+- 🌐 **High Availability**: Multi-AZ deployment with automatic failover capabilities
+- 📊 **Monitoring**: Custom health endpoints and comprehensive troubleshooting documentation
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -201,8 +202,7 @@ Previous:
 [![Serverless CRUD API](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-CRUD-API&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-CRUD-API)
 [![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
 
-[![Personal Finance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=personal-finance-dashboard&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/personal-finance-dashboard)
-
+[![Scalable-2-Tier-Web-Application](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=AWS-2Tier-Web-App&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Scalable-2-Tier-Web-Application)
 </div>
 
 ---
