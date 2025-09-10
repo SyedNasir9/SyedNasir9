@@ -202,7 +202,7 @@ Previous:
 [![Serverless CRUD API](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-CRUD-API&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-CRUD-API)
 [![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
 
-[![Scalable-2-Tier-Web-Application](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=AWS-2Tier-Web-App&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Scalable-2-Tier-Web-Application)
+[![Scalable-2-Tier-Web-Application](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=AWS-2Tier-Web-App&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/AWS-2Tier-Web-App)
 </div>
 
 ---
