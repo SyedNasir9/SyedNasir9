@@ -96,6 +96,20 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 - 📊 **Integration Testing**: Added automated quality gates, cutting **post-deployment bugs by ~40%**  
 - 🔒 **Security**: Integrated vulnerability scanning & compliance checks → maintained **zero critical CVEs in production**  
 - ⚡ **Fast Delivery**: Reduced deployment time **from 2–3 hours to 3–5 minutes**  
+---
+
+### 🏗️ **Terraform AWS Infrastructure Automation** - *ECS-S3-CloudFront*
+> **Enterprise-Grade Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=flat&logo=amazoncloudfront&logoColor=white)
+
+- 🏗️ **Infrastructure as Code**: Complete AWS infrastructure automation
+- 🐳 **Container Orchestration**: ECS service configuration and management
+- 🌐 **CDN Integration**: CloudFront distribution for global content delivery
+- 🔐 **Security**: IAM roles, VPC configuration, and best practices
+- 📦 **Storage**: S3 bucket configuration with lifecycle policies
 
 ---
 
@@ -113,21 +127,6 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 - 💰 **Cost Optimized**: 35% cost reduction vs manual deployment processes
 
 <br clear="left"/>
-
----
-
-### 🏗️ **Terraform AWS Infrastructure Automation** - *ECS-S3-CloudFront*
-> **Enterprise-Grade Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=flat&logo=amazoncloudfront&logoColor=white)
-
-- 🏗️ **Infrastructure as Code**: Complete AWS infrastructure automation
-- 🐳 **Container Orchestration**: ECS service configuration and management
-- 🌐 **CDN Integration**: CloudFront distribution for global content delivery
-- 🔐 **Security**: IAM roles, VPC configuration, and best practices
-- 📦 **Storage**: S3 bucket configuration with lifecycle policies
 
 ---
 
@@ -228,9 +227,9 @@ Previous:
 <div align="center">
 
 [![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
-[![CloudWatch DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=CloudWatch-DevOps-Pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/CloudWatch-DevOps-Pipeline)
-
 [![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
+
+[![CloudWatch DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=CloudWatch-DevOps-Pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/CloudWatch-DevOps-Pipeline)
 [![Scalable-2-Tier-Web-Application](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=AWS-2Tier-Web-App&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/AWS-2Tier-Web-App)
 
 </div>
