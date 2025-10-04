@@ -82,6 +82,20 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" align="left">
 
+### ⚡ **Serverless Feedback Platform** – *Production-Grade Serverless Architecture*  
+> **Real-Time Feedback Collection with AWS Lambda, DynamoDB & CloudFront**
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white) ![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-8C4FFF?style=flat&logo=amazoncloudwatch&logoColor=white)  
+
+- ⚡ **Fully Serverless**: Deployed feedback system with AWS Lambda + API Gateway → **zero server management**  
+- 🗄️ **Scalable Data Layer**: DynamoDB with Streams for real-time analytics → **sub-10ms query latency**  
+- 🌐 **Global Reach**: CloudFront CDN for frontend delivery → improved **TTFB by 40%** worldwide  
+- 📊 **Observability**: CloudWatch + SNS alerts enabled proactive monitoring and **auto-rollbacks on failures**  
+- 💰 **Cost Efficiency**: Achieved **~70% infra cost savings** with pay-per-use compute model  
+- 🚀 **Business Impact**: Delivered real-time sentiment analytics with **99.95% uptime** for enterprise-scale workloads
+
+---
+
 ### 🔧 **End-to-End DevOps Pipeline** - *Complete CI/CD Automation*
 > **Full-Stack Application Deployment with Jenkins, Docker, and AWS**
 
@@ -127,22 +141,6 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 - 💰 **Cost Optimized**: 35% cost reduction vs manual deployment processes
 
 <br clear="left"/>
-
----
-
-### 🏗️ **Scalable 2-Tier Web Application** - *Production-Ready AWS Architecture*
-> **High-Availability Web App with Auto-Scaling and Load Balancing**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
-![ALB](https://img.shields.io/badge/Load%20Balancer-FF4F8B?style=flat&logo=amazonelasticloadbalancing&logoColor=white)
-
-- 🏗️ **2-Tier Architecture**: Web layer with ALB + Auto Scaling Group, database layer with RDS MySQL
-- ⚡ **Auto-Scaling**: Dynamic scaling (2-6 instances) based on CPU utilization with health monitoring
-- 🔒 **Security**: VPC with private subnets, layered security groups, and IAM best practices
-- 🌐 **High Availability**: Multi-AZ deployment with automatic failover capabilities
-- 📊 **Monitoring**: Custom health endpoints and comprehensive troubleshooting documentation
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -227,15 +225,15 @@ Previous:
 <div align="center">
 
 [![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
-[![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
+[![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 
+[![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
 [![CloudWatch DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=CloudWatch-DevOps-Pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/CloudWatch-DevOps-Pipeline)
-[![Scalable-2-Tier-Web-Application](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=AWS-2Tier-Web-App&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/AWS-2Tier-Web-App)
 
 </div>
 
 ---
-
+ 
 ## 🎯 Career Objective
 
 > **"Seeking an internship/job opportunity to contribute to cloud operations and deepen real-world experience in DevOps practices, cloud architecture, and infrastructure automation."**
