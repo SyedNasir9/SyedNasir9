@@ -82,6 +82,25 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" align="left">
 
+### ☸️ **Production-Grade Event-Driven File Processing Pipeline** – *AWS + Kubernetes + Terraform*
+
+> **Fully Event-Driven, Serverless-Orchestrated File Processing at Scale**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+- ⚡ **Event-Driven Architecture**: Implemented a real-time pipeline (S3 → SQS → EKS → DynamoDB → SNS) enabling **fully asynchronous file processing** with **99.95% uptime**  
+- ☸️ **Kubernetes on EKS**: Containerized Python workers deployed on **managed node groups** with **auto-healing & scaling**, achieving **40% cost reduction**  
+- 🧠 **Intelligent Retry System**: Built **DLQ + CronJob requeue mechanism**, ensuring **zero message loss** and **self-recovery** for failed jobs  
+- 🧱 **Infrastructure as Code**: Provisioned complete AWS stack (S3, SQS, DynamoDB, ECR, IAM, EKS) via **Terraform**, enabling **reproducible environments**  
+- 🔒 **Enterprise Security**: Implemented **IRSA authentication, least-privilege IAM policies**, and secure pod-level credentials  
+- 🔁 **Continuous Improvement**: Added **immutable image versioning**, **CNI fixes**, and **automated DLQ recovery**, ensuring high reliability under load  
+
+---
+
 ### ⚡ **Serverless Feedback Platform** – *Production-Grade Serverless Architecture*  
 > **Real-Time Feedback Collection with AWS Lambda, DynamoDB & CloudFront**
 
@@ -124,21 +143,6 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 - 🌐 **CDN Integration**: CloudFront distribution for global content delivery
 - 🔐 **Security**: IAM roles, VPC configuration, and best practices
 - 📦 **Storage**: S3 bucket configuration with lifecycle policies
-
----
-
-### 🔄 **CloudWatch DevOps Pipeline** - *CI/CD Monitoring Excellence*
-> **Production-Ready AWS DevOps Pipeline with Comprehensive CloudWatch Integration**
-
-![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4B4B?style=flat&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-- 🔄 **Complete CI/CD Pipeline**: S3 → CodePipeline → CodeBuild → CodeDeploy automation
-- 📊 **Advanced Monitoring**: Real-time CloudWatch dashboards with custom metrics
-- 🚨 **Intelligent Alerting**: SNS-powered email notifications with threshold-based triggers
-- ⚡ **Performance**: 98.5% deployment success rate, 3-5 minute deployment cycles
-- 💰 **Cost Optimized**: 35% cost reduction vs manual deployment processes
 
 <br clear="left"/>
 
@@ -223,12 +227,12 @@ Previous:
 ## 📈 Repository Highlights
 
 <div align="center">
-
-[![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
+  
+[![Event-Driven-File-Processing-Pipeline-AWS-EKS-Terraform](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
 [![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 
+[![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
 [![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
-[![CloudWatch DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=CloudWatch-DevOps-Pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/CloudWatch-DevOps-Pipeline)
 
 </div>
 
