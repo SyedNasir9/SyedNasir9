@@ -155,9 +155,10 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 <div align="center">
   
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedNasir9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNasir9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedNasir9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNasir9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedNasir9&theme=tokyonight&hide_border=true"/>
