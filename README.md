@@ -4,9 +4,10 @@
   
 # 💫 Syed Nasir
 
-### Cloud & DevOps Enthusiast | BCA Student | Building Cloud-Ready Projects
+### Cloud • DevOps • DevSecOps Practitioner | Building Secure, Scalable, Cloud-Native Projects
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Cloud-Ready+Solutions+with+AWS+%26+Docker;Aspiring+Cloud+Support+%26+DevOps+Engineer;Automating+Processes+and+Learning+Daily)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Cloud+%7C+DevOps+%7C+DevSecOps;Building+Reliable+and+Secure+Cloud+Solutions)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -26,7 +27,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Cloud & DevOps enthusiast** currently pursuing **BCA** at Vaagdevi Degree College. I have hands-on experience with **AWS cloud services**, **Docker containerization**, **Terraform IaC**, and **CI/CD pipelines**. My expertise lies in designing, deploying, and monitoring cloud-native applications with a strong focus on **automation**, **scalability**, and **observability**.
+I’m a passionate **Cloud, DevOps, and DevSecOps practitioner** with hands-on experience in **AWS cloud services**, **Docker containerization**, **Terraform IaC**, **Kubernetes**, and **CI/CD pipelines**. I have implemented secure **DevSecOps** and **GitOps** workflows using tools like **ArgoCD**, **Jenkins**, and **HashiCorp Vault**. My focus lies in designing, deploying, and monitoring **cloud-native applications** with strong emphasis on **automation**, **scalability**, and **observability**, while currently exploring advanced automation using **n8n** and **Generative AI**.
 
 **🎓 Academic Excellence:** SSC: 10.0 GPA | Intermediate: 80% | BCA: 8.0 CGPA
 
@@ -45,6 +46,7 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing **BCA** at Vaa
 ## 🛠️ Technical Arsenal
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" align="right">
+
 <div align="center">
 
 ### ☁️ Cloud Platforms & Services
@@ -53,26 +55,38 @@ I'm a passionate **Cloud & DevOps enthusiast** currently pursuing **BCA** at Vaa
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![EKS](https://img.shields.io/badge/AWS%20EKS-4B8BBE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🔧 DevOps & Infrastructure
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0052CC?style=for-the-badge&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 Development & Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
+### ⚡ Monitoring, DevSecOps & Automation
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-6E96C9?style=for-the-badge&logo=nagios&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white)
+![Sealed Secrets](https://img.shields.io/badge/Sealed%20Secrets-007FFF?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-FF6600?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0055FF?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6B5B95?style=for-the-badge)
+![Istio](https://img.shields.io/badge/Istio-232F3E?style=for-the-badge)
+![OpenShift](https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge)
 
 ### ⚡ Other Skills & Tools
-Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
+Python, Java, JavaScript, React, Bash
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -131,18 +145,22 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 - ⚡ **Fast Delivery**: Reduced deployment time **from 2–3 hours to 3–5 minutes**  
 ---
 
-### 🏗️ **Terraform AWS Infrastructure Automation** - *ECS-S3-CloudFront*
-> **Enterprise-Grade Infrastructure as Code**
+### 🏗️ **DevSecOps CI/CD Pipeline Security Demonstration** - *Jenkins-Docker-Kubernetes-Security*
+> **End-to-End Secure Software Delivery Pipeline**
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=flat&logo=amazoncloudfront&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-FF6600?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0055FF?style=flat)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat&logo=hashicorp&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-007FFF?style=flat)
 
-- 🏗️ **Infrastructure as Code**: Complete AWS infrastructure automation
-- 🐳 **Container Orchestration**: ECS service configuration and management
-- 🌐 **CDN Integration**: CloudFront distribution for global content delivery
-- 🔐 **Security**: IAM roles, VPC configuration, and best practices
-- 📦 **Storage**: S3 bucket configuration with lifecycle policies
+- 🔄 **Automated CI/CD**: Full Jenkins pipeline orchestrating build, test, security scan, and deployment → achieved **99% successful local deployment**  
+- 🐳 **Containerization**: Docker images built, scanned via Trivy, ensuring **100% reproducible & secure environments**  
+- 📦 **Kubernetes / OpenShift Deployment**: Multi-stage deployment validated on local & OpenShift clusters → reduced **manual setup by 90%**  
+- 🔐 **Security Integration**: SAST, DAST, and policy checks via Trivy, Kubesec, OPA/Conftest, OWASP ZAP → **zero critical vulnerabilities** detected in pipeline  
+- 🔑 **Secret Management**: HashiCorp Vault for secure credentials storage → enforced **secret rotation & compliance**  
+
 
 <br clear="left"/>
 
@@ -166,21 +184,20 @@ Maven, Puppet, Ansible, Kubernetes, Nagios, C, C++, Bash
 </div>
 
 ---
-
 ## 🌟 Key Achievements
 
 <div align="center">
 
 | 🎯 **Technical Achievements** | 📊 **Metrics & Impact** | 📈 **Project Outcomes** |
 |------------------------------|-------------------------|-------------------------|
-| **Production Deployment**: Docker + Prometheus on AWS EC2 | **99.9% Uptime**: Achieved through automated monitoring | **Cost Optimization**: 40% reduction in infrastructure costs |
-| **Infrastructure as Code**: Complete Terraform automation | **Zero Manual Deployments**: 100% automated provisioning | **Deployment Speed**: 75% faster deployment cycles |
-| **Serverless Solutions**: Cost-effective Lambda implementations | **Sub-second Response**: < 200ms API response time | **Scalability**: Handles 1000+ concurrent requests |
-| **CI/CD Excellence**: End-to-end pipeline automation | **Build Success Rate**: 98% automated build success | **Release Frequency**: Daily deployments capability |
-| **Container Orchestration**: ECS Fargate production workloads | **Auto-scaling**: Dynamic scaling based on CPU/Memory | **Resource Efficiency**: 60% better resource utilization |
-| **Monitoring & Observability**: Full-stack application monitoring | **Alert Response**: < 5 min incident detection | **Performance Tracking**: Real-time metrics dashboard |
+| **DevSecOps CI/CD Pipeline**: Jenkins + Docker + Kubernetes | **99% Pipeline Success**: Fully automated build, test, and deployment | **Security First**: Zero critical vulnerabilities in pipeline runs |
+| **Infrastructure as Code**: Terraform + AWS + OpenShift | **Zero Manual Provisioning**: Fully automated infrastructure | **Deployment Speed**: 70–80% faster provisioning cycles |
+| **GitOps Automation**: ArgoCD | **Automated Releases**: 95% of deployments triggered via GitOps | **Efficiency Boost**: Reduced manual interventions by ~50% |
+| **Service Mesh & Security**: Istio + mTLS | **Secure Traffic**: All inter-service traffic encrypted | **Enhanced Observability**: Full runtime metrics + alerts |
+| **Monitoring & Observability**: Prometheus + Grafana + CloudWatch | **Fast Incident Detection**: < 5 min alert response | **Real-Time Insights**: Dashboards for performance & security |
 
 </div>
+
 
 ---
 
@@ -213,12 +230,13 @@ Previous:
 
 | 🎯 **Mastering** | 🚀 **Exploring** | 📚 **Learning** |
 |------------------|------------------|------------------|
-| AWS ECS Fargate | Kubernetes | Advanced Terraform |
-| CI/CD Optimization | Multi-Cloud Strategies | DevSecOps Practices |
-| Infrastructure Monitoring | Service Mesh | Cloud Cost Optimization |
-| Serverless Patterns | GitOps Workflows | Site Reliability Engineering |
+| AWS Cloud & Terraform | Kubernetes & OpenShift | Advanced DevSecOps Practices |
+| CI/CD Automation & Jenkins | Service Mesh with Istio | Cloud Cost Optimization |
+| Infrastructure Monitoring & Observability | GitOps Workflows with ArgoCD | Site Reliability Engineering |
+| Containerization & Security | Automated Workflows (n8n / GenAI) | Advanced Terraform Modules |
 
 </div>
+
 
 ---
 
@@ -230,7 +248,7 @@ Previous:
 [![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 
 [![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
-[![Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Terraform-AWS-Infrastructure-Automation-EC2-S3-CloudFront)
+[![DevSecOps CI/CD Pipeline Security Demonstration](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevSecOps-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/DevSecOps-pipeline)
 
 </div>
 
