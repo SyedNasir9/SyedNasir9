@@ -78,8 +78,6 @@ I’m a passionate **Cloud, DevOps, and DevSecOps practitioner** with hands-on e
 ![Sealed Secrets](https://img.shields.io/badge/Sealed%20Secrets-007FFF?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-FF6600?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0055FF?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6B5B95?style=for-the-badge)
 ![Istio](https://img.shields.io/badge/Istio-232F3E?style=for-the-badge)
 ![OpenShift](https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge)
 
