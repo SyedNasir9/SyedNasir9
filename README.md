@@ -27,8 +27,7 @@
 
 ## 🎯 About Me
 
-I’m a passionate **Cloud, DevOps, and DevSecOps practitioner** with hands-on experience in **AWS cloud services**, **Docker containerization**, **Terraform IaC**, **Kubernetes**, and **CI/CD pipelines**. I have implemented secure **DevSecOps** and **GitOps** workflows using tools like **ArgoCD**, **Jenkins**, and **HashiCorp Vault**. My focus lies in designing, deploying, and monitoring **cloud-native applications** with strong emphasis on **automation**, **scalability**, and **observability**, while currently exploring advanced automation using **n8n** and **Generative AI**.
-
+I’m a passionate **Cloud, DevOps, and DevSecOps practitioner** with hands-on experience in **AWS cloud services**, **Docker containerization**, **Terraform IaC**, **Kubernetes**, and **CI/CD pipelines**. I have implemented secure **DevSecOps** and **GitOps** workflows using tools like **ArgoCD**, **Jenkins**, and **HashiCorp Vault**. My focus lies in designing, deploying, and monitoring **cloud-native applications** with strong emphasis on **automation**, **scalability**, and **observability**. 
 **🎓 Academic Excellence:** SSC: 10.0 GPA | Intermediate: 80% | BCA: 8.0 CGPA
 
 <div align="center">
