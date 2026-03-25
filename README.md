@@ -93,6 +93,26 @@ Python, Java, JavaScript, React, Bash
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" align="left">
 
+### 🤖 **AI Incident Manager** – *Go + AI + Observability + ChatOps*
+
+> **AI-Powered Incident Intelligence Platform for Automated Root Cause Analysis & Similarity Detection**
+
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+- ⚡ **End-to-End Incident Pipeline**: Built a complete flow (Alert → Signals → Timeline → AI Analysis → Embeddings → Similarity), enabling **automated incident understanding and faster triage**  
+- 🧠 **AI Root Cause Analysis**: Integrated **Ollama + TinyLlama** to analyze timelines and generate human-readable root causes, reducing manual debugging effort  
+- 🔍 **Similarity Detection Engine**: Implemented **embedding-based cosine similarity in Go**, enabling detection of recurring incidents with contextual scoring  
+- 📊 **Observability Correlation**: Unified **Prometheus metrics, Loki logs, Kubernetes events, and GitHub commits** into a single incident timeline  
+- 💬 **Slack ChatOps Integration**: Enabled real-time incident queries (`/incident timeline`, `/similar`, `/rootcause`) directly from Slack for faster response workflows  
+- 📈 **Visualization Layer**: Integrated **Grafana dashboards with incident overlays**, providing correlated insights across metrics, logs, and timelines  
+- 🧱 **Production-Ready Architecture**: Containerized with Docker, structured with clean modular services, and deployable via **docker-compose for full local setup**
+
+---
+
 ### ☸️ **Production-Grade Event-Driven File Processing Pipeline** – *AWS + Kubernetes + Terraform*
 
 > **Fully Event-Driven, Serverless-Orchestrated File Processing at Scale**
@@ -124,22 +144,6 @@ Python, Java, JavaScript, React, Bash
 - 💰 **Cost Efficiency**: Achieved **~70% infra cost savings** with pay-per-use compute model  
 - 🚀 **Business Impact**: Delivered real-time sentiment analytics with **99.95% uptime** for enterprise-scale workloads
 
----
-
-### 🔧 **End-to-End DevOps Pipeline** - *Complete CI/CD Automation*
-> **Full-Stack Application Deployment with Jenkins, Docker, and AWS**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-
-- 🔄 **Automated CI/CD**: Built end-to-end pipeline (GitHub → Jenkins → AWS) achieving **98.5% deployment success rate**  
-- 🐳 **Containerization**: Standardized builds with Docker, ensuring **100% reproducible deployments** across environments  
-- 🚀 **Multi-Stage Pipeline**: Implemented build, test, security scan, and deploy stages → reduced **manual intervention by 90%**  
-- 📊 **Integration Testing**: Added automated quality gates, cutting **post-deployment bugs by ~40%**  
-- 🔒 **Security**: Integrated vulnerability scanning & compliance checks → maintained **zero critical CVEs in production**  
-- ⚡ **Fast Delivery**: Reduced deployment time **from 2–3 hours to 3–5 minutes**  
 ---
 
 ### 🏗️ **DevSecOps CI/CD Pipeline Security Demonstration** - *Jenkins-Docker-Kubernetes-Security*
@@ -240,11 +244,11 @@ Previous:
 ## 📈 Repository Highlights
 
 <div align="center">
-  
-[![Event-Driven-File-Processing-Pipeline-AWS-EKS-Terraform](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
-[![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 
-[![End-to-End DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=End-to-end-devops-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/End-to-end-devops-pipeline)
+[![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=ai-incident-manager&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/ai-incident-manager)  
+[![Event-Driven-File-Processing-Pipeline-AWS-EKS-Terraform](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
+
+[![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 [![DevSecOps CI/CD Pipeline Security Demonstration](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevSecOps-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/DevSecOps-pipeline)
 
 </div>
