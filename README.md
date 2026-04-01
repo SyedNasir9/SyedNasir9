@@ -245,7 +245,7 @@ Previous:
 
 <div align="center">
 
-[![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=ai-incident-manager&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/ai-incident-manager)  
+[![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=ai-incident-manager&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/AI-incident-manager)  
 [![Event-Driven-File-Processing-Pipeline-AWS-EKS-Terraform](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
 
 [![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
