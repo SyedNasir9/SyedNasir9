@@ -173,6 +173,8 @@ Python, Java, JavaScript, React, Bash
 
 <div align="center">
 
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNasir9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedNasir9&theme=tokyonight&hide_border=true"/>
 </div>
