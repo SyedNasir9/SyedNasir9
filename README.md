@@ -247,8 +247,8 @@ Previous:
 
 <div align="center">
 
-[![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Ai-incident-manager&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Ai-incident-manager)  
-[![DevCost AI](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevCost-AI&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/DevCost-AI)
+[![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Ai-incident-manager&theme=tokyonight&hide_border=true&cache_seconds=0)](https://github.com/SyedNasir9/Ai-incident-manager)
+[![DevCost AI](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevCost-AI&theme=tokyonight&hide_border=true&cache_seconds=0)](https://github.com/SyedNasir9/DevCost-AI)
 
 [![Event-Driven File Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
 [![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
