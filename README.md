@@ -113,6 +113,26 @@ Python, Java, JavaScript, React, Bash
 
 ---
 
+### 💸 **DevCost AI** – *Go + Cloud + AI + FinOps*
+
+> **AI-Powered Cloud Cost Optimization Platform for Automated Waste Detection & Intelligent Recommendations**
+
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+- ⚡ **End-to-End Cost Optimization Pipeline**: Built a complete flow (Resource Discovery → Waste Detection → Recommendations → AI Analysis → Action Execution), enabling **automated cloud cost control and faster decision-making**  
+- 🧠 **AI-Powered Cost Insights**: Integrated **Ollama (local LLM)** to generate human-readable explanations for cost anomalies and optimization actions  
+- 🔍 **Waste Detection Engine**: Implemented rule-based detection (idle EC2, oversized RDS, unused volumes) with **threshold-driven analysis and estimated savings**  
+- 📊 **Real-Time Cost Visibility**: Designed a dashboard using **Next.js + Tailwind** to display cost metrics, waste percentage, and savings opportunities  
+- ⚙️ **Automated Optimization Actions**: Enabled **one-click execution** of safe cost-saving actions with risk assessment and rollback capability  
+- 🔔 **Slack Integration (ChatOps)**: Provided cost insights and alerts via Slack commands for improved team awareness and faster responses  
+- 🧱 **Production-Ready Microservices Architecture**: Built with **Go (Gin), PostgreSQL, Redis**, containerized using Docker, and orchestrated via docker-compose
+  
+---
+
 ### ☸️ **Production-Grade Event-Driven File Processing Pipeline** – *AWS + Kubernetes + Terraform*
 
 > **Fully Event-Driven, Serverless-Orchestrated File Processing at Scale**
@@ -144,23 +164,6 @@ Python, Java, JavaScript, React, Bash
 - 💰 **Cost Efficiency**: Achieved **~70% infra cost savings** with pay-per-use compute model  
 - 🚀 **Business Impact**: Delivered real-time sentiment analytics with **99.95% uptime** for enterprise-scale workloads
 
----
-
-### 🏗️ **DevSecOps CI/CD Pipeline Security Demonstration** - *Jenkins-Docker-Kubernetes-Security*
-> **End-to-End Secure Software Delivery Pipeline**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-FF6600?style=flat)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0055FF?style=flat)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat&logo=hashicorp&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA-007FFF?style=flat)
-
-- 🔄 **Automated CI/CD**: Full Jenkins pipeline orchestrating build, test, security scan, and deployment → achieved **99% successful local deployment**  
-- 🐳 **Containerization**: Docker images built, scanned via Trivy, ensuring **100% reproducible & secure environments**  
-- 📦 **Kubernetes / OpenShift Deployment**: Multi-stage deployment validated on local & OpenShift clusters → reduced **manual setup by 90%**  
-- 🔐 **Security Integration**: SAST, DAST, and policy checks via Trivy, Kubesec, OPA/Conftest, OWASP ZAP → **zero critical vulnerabilities** detected in pipeline  
-- 🔑 **Secret Management**: HashiCorp Vault for secure credentials storage → enforced **secret rotation & compliance**  
 
 
 <br clear="left"/>
@@ -245,12 +248,11 @@ Previous:
 <div align="center">
 
 [![AI Incident Manager](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Ai-incident-manager&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Ai-incident-manager)  
+[![DevCost AI](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevCost-AI&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/DevCost-AI)
 
 [![Event-Driven File Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Event-driven-file-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Event-driven-file-pipeline)
-
 [![Serverless Feedback App](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=Serverless-feedback-App-AWS&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/Serverless-feedback-App-AWS)
 
-[![DevSecOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=SyedNasir9&repo=DevSecOps-pipeline&theme=tokyonight&hide_border=true)](https://github.com/SyedNasir9/DevSecOps-pipeline)
 
 </div>
 
@@ -270,7 +272,7 @@ Previous:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Syed_Nasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syednasir111-)
+[![LinkedIn Badge](https://img.shields.io/badge/-Syed_Nasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syednasir111)
 [![GitHub Badge](https://img.shields.io/badge/-SyedNasir9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedNasir9)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirsyed652@gmail.com)
 
