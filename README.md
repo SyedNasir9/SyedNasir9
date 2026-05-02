@@ -273,7 +273,7 @@ Previous:
  
 ## 🎯 Career Objective
 
-> **"Seeking an internship/job opportunity to contribute to cloud operations and deepen real-world experience in DevOps practices, cloud architecture, and infrastructure automation."**
+> **"Focused on building production-grade cloud systems and contributing to high-impact DevOps and infrastructure teams."**
 
 ---
 
