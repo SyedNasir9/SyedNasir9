@@ -27,8 +27,21 @@
 
 ## 🎯 About Me
 
-I’m a passionate **Cloud, DevOps, and DevSecOps practitioner** with hands-on experience in **AWS cloud services**, **Docker containerization**, **Terraform IaC**, **Kubernetes**, and **CI/CD pipelines**. I have implemented secure **DevSecOps** and **GitOps** workflows using tools like **ArgoCD**, **Jenkins**, and **HashiCorp Vault**. My focus lies in designing, deploying, and monitoring **cloud-native applications** with strong emphasis on **automation**, **scalability**, and **observability**. 
-**🎓 Academic Excellence:** SSC: 10.0 GPA | Intermediate: 80% | BCA: 8.0 CGPA
+I’m a Cloud, DevOps, and DevSecOps practitioner focused on building scalable, secure, and production-ready cloud systems.
+
+I have hands-on experience across AWS (EC2, S3, IAM, Lambda, EKS, CloudWatch), Kubernetes, Docker, Terraform, and CI/CD automation. I design and operate cloud-native applications with a strong emphasis on automation, reliability, and observability.
+
+I’ve implemented secure DevSecOps and GitOps workflows using tools like ArgoCD, Jenkins, and HashiCorp Vault, along with integrating monitoring stacks such as Prometheus, Grafana, and OpenTelemetry for end-to-end visibility.
+
+My work includes building real-world systems like:
+- AI-powered incident management platforms for automated root cause analysis  
+- Cloud cost optimization systems reducing infrastructure spend by ~30%  
+- Secure CI/CD pipelines using OIDC-based authentication and zero long-lived credentials  
+
+🎯 I focus on solving real infrastructure problems, improving system reliability, and optimizing cloud performance at scale.
+
+🎓 **Academic**:  
+SSC – 10.0 GPA | Intermediate – 80% | BCA – 8.0 CGPA
 
 <div align="center">
   
