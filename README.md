@@ -156,29 +156,6 @@ Python, Java, JavaScript, React, Bash
 ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-- ⚡ **Event-Driven Architecture**: Implemented a real-time pipeline (S3 → SQS → EKS → DynamoDB → SNS) enabling **fully asynchronous file processing** with **99.95% uptime**  
-- ☸️ **Kubernetes on EKS**: Containerized Python workers deployed on **managed node groups** with **auto-healing & scaling**, achieving **40% cost reduction**  
-- 🧠 **Intelligent Retry System**: Built **DLQ + CronJob requeue mechanism**, ensuring **zero message loss** and **self-recovery** for failed jobs  
-- 🧱 **Infrastructure as Code**: Provisioned complete AWS stack (S3, SQS, DynamoDB, ECR, IAM, EKS) via **Terraform**, enabling **reproducible environments**  
-- 🔒 **Enterprise Security**: Implemented **IRSA authentication, least-privilege IAM policies**, and secure pod-level credentials  
-- 🔁 **Continuous Improvement**: Added **immutable image versioning**, **CNI fixes**, and **automated DLQ recovery**, ensuring high reliability under load  
-
----
-
-### ⚡ **Serverless Feedback Platform** – *Production-Grade Serverless Architecture*  
-> **Real-Time Feedback Collection with AWS Lambda, DynamoDB & CloudFront**
-
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white) ![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-8C4FFF?style=flat&logo=amazoncloudwatch&logoColor=white)  
-
-- ⚡ **Fully Serverless**: Deployed feedback system with AWS Lambda + API Gateway → **zero server management**  
-- 🗄️ **Scalable Data Layer**: DynamoDB with Streams for real-time analytics → **sub-10ms query latency**  
-- 🌐 **Global Reach**: CloudFront CDN for frontend delivery → improved **TTFB by 40%** worldwide  
-- 📊 **Observability**: CloudWatch + SNS alerts enabled proactive monitoring and **auto-rollbacks on failures**  
-- 💰 **Cost Efficiency**: Achieved **~70% infra cost savings** with pay-per-use compute model  
-- 🚀 **Business Impact**: Delivered real-time sentiment analytics with **99.95% uptime** for enterprise-scale workloads
-
-
-
 <br clear="left"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
