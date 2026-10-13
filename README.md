@@ -146,16 +146,6 @@ Python, Java, JavaScript, React, Bash
   
 ---
 
-### ☸️ **Production-Grade Event-Driven File Processing Pipeline** – *AWS + Kubernetes + Terraform*
-
-> **Fully Event-Driven, Serverless-Orchestrated File Processing at Scale**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
 <br clear="left"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
